@@ -49,7 +49,7 @@
     }, /* @__PURE__ */ figma.widget.h(Text, {
       fontSize: 32,
       horizontalAlignText: "center"
-    }, "Click Me"));
+    }, "Wolf"));
   }
   widget.register(Widget);
 })();
